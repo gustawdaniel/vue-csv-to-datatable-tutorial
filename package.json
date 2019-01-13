@@ -1,0 +1,19 @@
+{
+  "name": "vue-csv-to-datatable-tutorial",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:e2e": "vue-cli-service test:e2e"
+  },
+  "dependencies": {
+    "vue": "^2.5.21"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.3.0",
+    "@vue/cli-plugin-e2e-cypress": "^3.3.0",
+    "@vue/cli-service": "^3.3.0",
+    "vue-template-compiler": "^2.5.21"
+  }
+}

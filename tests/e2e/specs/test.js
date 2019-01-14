@@ -12,16 +12,16 @@ describe('Loading data', () => {
     cy.visit('/');
     cy.get('input[type="checkbox"]').click({force: true});
     cy.contains('label', 'Measure: true');
-    for(let col=1; col<30; col++) {
-      cy.uploadFile('#csv_upload', `test_col_${col}_row_10000_len_10.csv`, 'text/csv');
-    }
+    // for(let col=1; col<30; col++) {
+    //   cy.uploadFile('#csv_upload', `test_col_${col}_row_10000_len_10.csv`, 'text/csv');
+    // }
 
-    for(let len=1; len<40; len++) {
+    for(let len=1; len<100; len++) {
       cy.uploadFile('#csv_upload', `test_col_10_row_10000_len_${len}.csv`, 'text/csv');
     }
 
-    for(let row=500; row<40000; row+=500) {
-      cy.uploadFile('#csv_upload', `test_col_10_row_${row}_len_10.csv`, 'text/csv');
-    }
+    // for(let row=500; row<40000; row+=500) {
+    //   cy.uploadFile('#csv_upload', `test_col_10_row_${row}_len_10.csv`, 'text/csv');
+    // }
   });
 });

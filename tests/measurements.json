@@ -6783,6 +6783,686 @@
       "len": 10,
       "time": 2239.429999999935,
       "id": 848
+    },
+    {
+      "file": "test_col_1_row_10000_len_10.csv",
+      "col": 1,
+      "row": 10000,
+      "len": 10,
+      "time": 307.96000000000004,
+      "id": 849
+    },
+    {
+      "file": "test_col_2_row_10000_len_10.csv",
+      "col": 2,
+      "row": 10000,
+      "len": 10,
+      "time": 351.0800000000004,
+      "id": 850
+    },
+    {
+      "file": "test_col_3_row_10000_len_10.csv",
+      "col": 3,
+      "row": 10000,
+      "len": 10,
+      "time": 558.6800000000003,
+      "id": 851
+    },
+    {
+      "file": "test_col_4_row_10000_len_10.csv",
+      "col": 4,
+      "row": 10000,
+      "len": 10,
+      "time": 376.40000000000146,
+      "id": 852
+    },
+    {
+      "file": "test_col_5_row_10000_len_10.csv",
+      "col": 5,
+      "row": 10000,
+      "len": 10,
+      "time": 440.3799999999992,
+      "id": 853
+    },
+    {
+      "file": "test_col_6_row_10000_len_10.csv",
+      "col": 6,
+      "row": 10000,
+      "len": 10,
+      "time": 474.1350000000002,
+      "id": 854
+    },
+    {
+      "file": "test_col_7_row_10000_len_10.csv",
+      "col": 7,
+      "row": 10000,
+      "len": 10,
+      "time": 504.5750000000007,
+      "id": 855
+    },
+    {
+      "file": "test_col_8_row_10000_len_10.csv",
+      "col": 8,
+      "row": 10000,
+      "len": 10,
+      "time": 601.4799999999959,
+      "id": 856
+    },
+    {
+      "file": "test_col_9_row_10000_len_10.csv",
+      "col": 9,
+      "row": 10000,
+      "len": 10,
+      "time": 542.8149999999987,
+      "id": 857
+    },
+    {
+      "file": "test_col_10_row_10000_len_10.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 10,
+      "time": 620.9000000000015,
+      "id": 858
+    },
+    {
+      "file": "test_col_11_row_10000_len_10.csv",
+      "col": 11,
+      "row": 10000,
+      "len": 10,
+      "time": 795.0599999999977,
+      "id": 859
+    },
+    {
+      "file": "test_col_12_row_10000_len_10.csv",
+      "col": 12,
+      "row": 10000,
+      "len": 10,
+      "time": 665.4600000000028,
+      "id": 860
+    },
+    {
+      "file": "test_col_13_row_10000_len_10.csv",
+      "col": 13,
+      "row": 10000,
+      "len": 10,
+      "time": 736.125,
+      "id": 861
+    },
+    {
+      "file": "test_col_14_row_10000_len_10.csv",
+      "col": 14,
+      "row": 10000,
+      "len": 10,
+      "time": 852.1999999999971,
+      "id": 862
+    },
+    {
+      "file": "test_col_15_row_10000_len_10.csv",
+      "col": 15,
+      "row": 10000,
+      "len": 10,
+      "time": 1071.2999999999956,
+      "id": 863
+    },
+    {
+      "file": "test_col_16_row_10000_len_10.csv",
+      "col": 16,
+      "row": 10000,
+      "len": 10,
+      "time": 917.510000000002,
+      "id": 864
+    },
+    {
+      "file": "test_col_17_row_10000_len_10.csv",
+      "col": 17,
+      "row": 10000,
+      "len": 10,
+      "time": 1016.7799999999988,
+      "id": 865
+    },
+    {
+      "file": "test_col_18_row_10000_len_10.csv",
+      "col": 18,
+      "row": 10000,
+      "len": 10,
+      "time": 966.125,
+      "id": 866
+    },
+    {
+      "file": "test_col_19_row_10000_len_10.csv",
+      "col": 19,
+      "row": 10000,
+      "len": 10,
+      "time": 944.3999999999942,
+      "id": 867
+    },
+    {
+      "file": "test_col_20_row_10000_len_10.csv",
+      "col": 20,
+      "row": 10000,
+      "len": 10,
+      "time": 1084.9249999999956,
+      "id": 868
+    },
+    {
+      "file": "test_col_21_row_10000_len_10.csv",
+      "col": 21,
+      "row": 10000,
+      "len": 10,
+      "time": 1017.9799999999959,
+      "id": 869
+    },
+    {
+      "file": "test_col_22_row_10000_len_10.csv",
+      "col": 22,
+      "row": 10000,
+      "len": 10,
+      "time": 1046.715000000011,
+      "id": 870
+    },
+    {
+      "file": "test_col_23_row_10000_len_10.csv",
+      "col": 23,
+      "row": 10000,
+      "len": 10,
+      "time": 1126.9850000000006,
+      "id": 871
+    },
+    {
+      "file": "test_col_24_row_10000_len_10.csv",
+      "col": 24,
+      "row": 10000,
+      "len": 10,
+      "time": 1158.0000000000146,
+      "id": 872
+    },
+    {
+      "file": "test_col_25_row_10000_len_10.csv",
+      "col": 25,
+      "row": 10000,
+      "len": 10,
+      "time": 1958.1699999999983,
+      "id": 873
+    },
+    {
+      "file": "test_col_26_row_10000_len_10.csv",
+      "col": 26,
+      "row": 10000,
+      "len": 10,
+      "time": 2160.625,
+      "id": 874
+    },
+    {
+      "file": "test_col_27_row_10000_len_10.csv",
+      "col": 27,
+      "row": 10000,
+      "len": 10,
+      "time": 1256.390000000014,
+      "id": 875
+    },
+    {
+      "file": "test_col_28_row_10000_len_10.csv",
+      "col": 28,
+      "row": 10000,
+      "len": 10,
+      "time": 2057.6149999999907,
+      "id": 876
+    },
+    {
+      "file": "test_col_29_row_10000_len_10.csv",
+      "col": 29,
+      "row": 10000,
+      "len": 10,
+      "time": 2178.829999999987,
+      "id": 877
+    },
+    {
+      "file": "test_col_10_row_10000_len_1.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 1,
+      "time": 550.3500000000058,
+      "id": 878
+    },
+    {
+      "file": "test_col_10_row_10000_len_2.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 2,
+      "time": 594.8099999999831,
+      "id": 879
+    },
+    {
+      "file": "test_col_10_row_10000_len_3.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 3,
+      "time": 788.2500000000146,
+      "id": 880
+    },
+    {
+      "file": "test_col_10_row_10000_len_4.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 4,
+      "time": 570.8350000000064,
+      "id": 881
+    },
+    {
+      "file": "test_col_10_row_10000_len_5.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 5,
+      "time": 625.7949999999983,
+      "id": 882
+    },
+    {
+      "file": "test_col_10_row_10000_len_6.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 6,
+      "time": 615.8849999999948,
+      "id": 883
+    },
+    {
+      "file": "test_col_10_row_10000_len_7.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 7,
+      "time": 596.8350000000064,
+      "id": 884
+    },
+    {
+      "file": "test_col_10_row_10000_len_8.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 8,
+      "time": 581.2400000000052,
+      "id": 885
+    },
+    {
+      "file": "test_col_10_row_10000_len_10.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 9,
+      "time": 725.8850000000093,
+      "id": 886
+    },
+    {
+      "file": "test_col_10_row_10000_len_10.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 10,
+      "time": 4078.165000000008,
+      "id": 887
+    },
+    {
+      "file": "test_col_10_row_10000_len_11.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 11,
+      "time": 588.464999999982,
+      "id": 888
+    },
+    {
+      "file": "test_col_10_row_10000_len_12.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 12,
+      "time": 634.4100000000035,
+      "id": 889
+    },
+    {
+      "file": "test_col_10_row_10000_len_13.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 13,
+      "time": 1229.125,
+      "id": 890
+    },
+    {
+      "file": "test_col_10_row_10000_len_14.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 14,
+      "time": 600.4100000000035,
+      "id": 891
+    },
+    {
+      "file": "test_col_10_row_10000_len_15.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 15,
+      "time": 1315.5950000000012,
+      "id": 892
+    },
+    {
+      "file": "test_col_10_row_10000_len_16.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 16,
+      "time": 617.9900000000198,
+      "id": 893
+    },
+    {
+      "file": "test_col_10_row_10000_len_17.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 17,
+      "time": 1416.5599999999977,
+      "id": 894
+    },
+    {
+      "file": "test_col_10_row_10000_len_18.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 18,
+      "time": 573.0100000000093,
+      "id": 895
+    },
+    {
+      "file": "test_col_10_row_10000_len_19.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 19,
+      "time": 607.0999999999767,
+      "id": 896
+    },
+    {
+      "file": "test_col_10_row_10000_len_20.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 20,
+      "time": 1336.8100000000268,
+      "id": 897
+    },
+    {
+      "file": "test_col_10_row_10000_len_21.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 21,
+      "time": 572.3850000000093,
+      "id": 898
+    },
+    {
+      "file": "test_col_10_row_10000_len_22.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 22,
+      "time": 612.5800000000163,
+      "id": 899
+    },
+    {
+      "file": "test_col_10_row_10000_len_23.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 23,
+      "time": 620.1849999999977,
+      "id": 900
+    },
+    {
+      "file": "test_col_10_row_10000_len_24.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 24,
+      "time": 616.4699999999721,
+      "id": 901
+    },
+    {
+      "file": "test_col_10_row_10000_len_25.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 25,
+      "time": 782.664999999979,
+      "id": 902
+    },
+    {
+      "file": "test_col_10_row_10000_len_26.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 26,
+      "time": 637.1900000000023,
+      "id": 903
+    },
+    {
+      "file": "test_col_10_row_10000_len_27.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 27,
+      "time": 612.2750000000233,
+      "id": 904
+    },
+    {
+      "file": "test_col_10_row_10000_len_28.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 28,
+      "time": 1144.6849999999977,
+      "id": 905
+    },
+    {
+      "file": "test_col_10_row_10000_len_29.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 29,
+      "time": 602.3600000000151,
+      "id": 906
+    },
+    {
+      "file": "test_col_10_row_10000_len_30.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 30,
+      "time": 639.1349999999802,
+      "id": 907
+    },
+    {
+      "file": "test_col_10_row_10000_len_31.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 31,
+      "time": 1155.4199999999837,
+      "id": 908
+    },
+    {
+      "file": "test_col_10_row_10000_len_32.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 32,
+      "time": 679.8899999999849,
+      "id": 909
+    },
+    {
+      "file": "test_col_10_row_10000_len_33.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 33,
+      "time": 700.5449999999837,
+      "id": 910
+    },
+    {
+      "file": "test_col_10_row_10000_len_34.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 34,
+      "time": 729.3250000000407,
+      "id": 911
+    },
+    {
+      "file": "test_col_1_row_10000_len_10.csv",
+      "col": 1,
+      "row": 10000,
+      "len": 10,
+      "time": 294.2750000000001,
+      "id": 912
+    },
+    {
+      "file": "test_col_2_row_10000_len_10.csv",
+      "col": 2,
+      "row": 10000,
+      "len": 10,
+      "time": 378.0800000000004,
+      "id": 913
+    },
+    {
+      "file": "test_col_3_row_10000_len_10.csv",
+      "col": 3,
+      "row": 10000,
+      "len": 10,
+      "time": 361.6750000000002,
+      "id": 914
+    },
+    {
+      "file": "test_col_4_row_10000_len_10.csv",
+      "col": 4,
+      "row": 10000,
+      "len": 10,
+      "time": 421.33500000000095,
+      "id": 915
+    },
+    {
+      "file": "test_col_10_row_10000_len_1.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 1,
+      "time": 928.5,
+      "id": 916
+    },
+    {
+      "file": "test_col_10_row_10000_len_2.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 2,
+      "time": 821.4549999999999,
+      "id": 917
+    },
+    {
+      "file": "test_col_10_row_10000_len_3.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 3,
+      "time": 668.7649999999994,
+      "id": 918
+    },
+    {
+      "file": "test_col_10_row_10000_len_4.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 4,
+      "time": 577.9699999999993,
+      "id": 919
+    },
+    {
+      "file": "test_col_10_row_10000_len_5.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 5,
+      "time": 586.460000000001,
+      "id": 920
+    },
+    {
+      "file": "test_col_10_row_10000_len_6.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 6,
+      "time": 595.3950000000004,
+      "id": 921
+    },
+    {
+      "file": "test_col_10_row_10000_len_7.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 7,
+      "time": 644.989999999998,
+      "id": 922
+    },
+    {
+      "file": "test_col_10_row_10000_len_8.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 8,
+      "time": 699.5950000000012,
+      "id": 923
+    },
+    {
+      "file": "test_col_10_row_10000_len_9.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 9,
+      "time": 591.8050000000039,
+      "id": 924
+    },
+    {
+      "file": "test_col_10_row_10000_len_10.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 10,
+      "time": 640.7300000000032,
+      "id": 925
+    },
+    {
+      "file": "test_col_10_row_10000_len_11.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 11,
+      "time": 696.5099999999984,
+      "id": 926
+    },
+    {
+      "file": "test_col_10_row_10000_len_12.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 12,
+      "time": 615.7450000000026,
+      "id": 927
+    },
+    {
+      "file": "test_col_10_row_10000_len_13.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 13,
+      "time": 607.7099999999991,
+      "id": 928
+    },
+    {
+      "file": "test_col_10_row_10000_len_14.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 14,
+      "time": 689.4600000000064,
+      "id": 929
+    },
+    {
+      "file": "test_col_10_row_10000_len_15.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 15,
+      "time": 590.7350000000006,
+      "id": 930
+    },
+    {
+      "file": "test_col_10_row_10000_len_16.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 16,
+      "time": 624.564999999995,
+      "id": 931
+    },
+    {
+      "file": "test_col_10_row_10000_len_17.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 17,
+      "time": 664.7750000000015,
+      "id": 932
+    },
+    {
+      "file": "test_col_10_row_10000_len_18.csv",
+      "col": 10,
+      "row": 10000,
+      "len": 18,
+      "time": 611.6849999999977,
+      "id": 933
     }
   ]
 }

@@ -37,7 +37,7 @@ for(let i=0; i<rows; i++) {
 }
 
 // show content of file
-console.log(content);
+// console.log(content);
 
 // save file with proper name
 fs.writeFile(__dirname+`/test_col_${columns}_row_${rows}_len_${length}.csv`, content, function(err) {

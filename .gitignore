@@ -24,3 +24,4 @@ yarn-error.log*
 *.sw*
 
 script/*.csv
+tests/e2e/fixtures/test*.csv

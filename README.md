@@ -1,5 +1,7 @@
 # vue-csv-to-datatable-tutorial
 
+![Zrzut ekranu z 2020-09-05 16-33-03](https://user-images.githubusercontent.com/16663028/92307287-952ad800-ef95-11ea-938a-0eca7c128210.png)
+
 ## Project setup
 ```
 npm install

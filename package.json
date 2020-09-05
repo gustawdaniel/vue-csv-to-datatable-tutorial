@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "material-design-icons-iconfont": "^5.0.1",
-    "papaparse": "^5.0.1",
+    "papaparse": "^5.2.0",
     "roboto-fontface": "*",
     "vue": "^2.6.10",
     "vuetify": "^2.0.1"

@@ -11,13 +11,17 @@
     "material-design-icons-iconfont": "^5.0.1",
     "papaparse": "^5.3.0",
     "roboto-fontface": "*",
-    "vue": "^2.6.12"
+    "vue": "^2.6.12",
+    "vuetify": "^2.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.1",
     "@vue/cli-plugin-e2e-cypress": "^3.12.1",
     "@vue/cli-service": "^3.12.1",
-    "vue-cli-plugin-vuetify": "^0.6.3",
-    "vue-template-compiler": "^2.6.12"
+    "sass": "^1.17.4",
+    "sass-loader": "^7.1.0",
+    "vue-cli-plugin-vuetify": "~0.6.3",
+    "vue-template-compiler": "^2.6.12",
+    "vuetify-loader": "^1.2.2"
   }
 }

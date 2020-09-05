@@ -45,6 +45,20 @@ npm run test:e2e
 wolframscript script/generate_graphs.wls
 ```
 
+Graphs:
+
+Columns
+
+![](tests/ct.png)
+
+Lengths
+
+![](tests/lt.png)
+
+Rows
+
+![](tests/rt.png)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 

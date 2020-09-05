@@ -1,8 +1,8 @@
 <template>
   <v-app>
-    <v-content>
+<!--    <v-content>-->
       <HelloWorld/>
-    </v-content>
+<!--    </v-content>-->
   </v-app>
 </template>
 
@@ -13,11 +13,6 @@ export default {
   name: 'App',
   components: {
     HelloWorld
-  },
-  data () {
-    return {
-      //
-    }
   }
 }
 </script>

@@ -8,20 +8,20 @@
     "test:e2e": "vue-cli-service test:e2e"
   },
   "dependencies": {
-    "material-design-icons-iconfont": "^5.0.1",
+    "material-design-icons-iconfont": "^6.0.2",
     "papaparse": "^5.3.0",
     "roboto-fontface": "*",
     "vue": "^2.6.12",
-    "vuetify": "^2.0.0"
+    "vuetify": "^2.3.10"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.12.1",
-    "@vue/cli-plugin-e2e-cypress": "^3.12.1",
-    "@vue/cli-service": "^3.12.1",
-    "sass": "^1.17.4",
-    "sass-loader": "^7.1.0",
-    "vue-cli-plugin-vuetify": "~0.6.3",
+    "@vue/cli-plugin-babel": "^4.5.4",
+    "@vue/cli-plugin-e2e-cypress": "^4.5.4",
+    "@vue/cli-service": "^4.5.4",
+    "sass": "^1.26.10",
+    "sass-loader": "^10.0.2",
+    "vue-cli-plugin-vuetify": "~2.0.7",
     "vue-template-compiler": "^2.6.12",
-    "vuetify-loader": "^1.2.2"
+    "vuetify-loader": "^1.6.0"
   }
 }

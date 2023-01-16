@@ -17,7 +17,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.4",
     "@vue/cli-plugin-e2e-cypress": "^5.0.8",
-    "@vue/cli-service": "^4.5.4",
+    "@vue/cli-service": "^5.0.8",
     "sass": "^1.26.10",
     "sass-loader": "^10.0.2",
     "vue-cli-plugin-vuetify": "~2.0.7",
